@@ -1,0 +1,12 @@
+[
+    { "img": "./style/img/Anh (1).jpg", "msg": "Chúc Kiều My mãi vui tươi và ngập tràn tiếng cười." },
+    { "img": "./style/img/Anh (2).jpg", "msg": "Cảm ơn vì đã man cho Thắng những tiếng cười hạt nhài." },
+    { "img": "./style/img/Anh (3).jpg", "msg": "Chúc Kiều My luôn xinh đẹp, rạng rỡ và giữ mãi nụ cười tỏa nắng trên môi." },
+    { "img": "./style/img/Anh (4).jpg", "msg": "Dù có chuyện gì xảy ra, thì vẫn luôn có Thắng nói chuyện tâm sự với bạn" },
+    { "img": "./style/img/Anh (5).jpg", "msg": "Mong con đường sau này sẽ nhẹ nhàng đối với bạn." },
+    { "img": "./style/img/Anh (6).jpg", "msg": "Mong rằng mọi điều tốt đẹp nhất trên thế gian này sẽ đến với Kiều My" },
+    { "img": "./style/img/Anh (7).jpg", "msg": "Cảm ơn vì những ngày tháng đã qua" },
+    { "img": "./style/img/Anh (8).jpg", "msg": "Chúc bạn bình an còn những việc khác sau này sẽ có một bờ vai vững chắc lo cho bạn" },
+    { "img": "./style/img/Anh (9).jpg", "msg": "Mong Kiều My mãi xinh tươi rạng rỡ." },
+    { "img": "./style/img/Anh (10).jpg", "msg": "Bái bai nhe, mong cậu luôn hạnh phúc ❤️" }
+]

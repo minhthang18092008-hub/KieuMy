@@ -1,0 +1,12 @@
+[
+    { "img": "./style/img/Anh (1).jpg", "msg": " Chào một buổi sáng mai của 1 tuổi cấp 3 tuyệt đẹp..." },
+    { "img": "./style/img/Anh (2).jpg", "msg": "Lúc đó,chẳng ai ngờ rằng tình bạn ta kéo dài đến thế." },
+    { "img": "./style/img/Anh (3).jpg", "msg": "Chào Kiều My, canh sát giờ đi học dữ ta." },
+    { "img": "./style/img/Anh (4).jpg", "msg": "Thế là những tiết học kèm bao nhiêu câu chuyện hạt nhài bắt đầu." },
+    { "img": "./style/img/Anh (5).jpg", "msg": "Những tiết học những tờ phao cùng những kỉ niệm theo ta trôi đi mất." },
+    { "img": "./style/img/Anh (6).jpg", "msg": "Nhớ không những lúc này ấy, tui gánh bạn riết cũng quen rồi" },
+    { "img": "./style/img/Anh (7).jpg", "msg": "Tiếc là trôi qua nhanh quá, bao nhiêu chuyện chưa kể bạn nghe." },
+    { "img": "./style/img/Anh (8).jpg", "msg": "Cũng là những lúc bạn chia tay là lại tìm đến tui ha " },
+    { "img": "./style/img/Anh (9).jpg", "msg": "Nhiều khi thấy bạn buồn bạn khóc ròi Thắng cũng sót hihi" },
+    { "img": "./style/img/Anh (10).jpg", "msg": "Và ròi cho đến nay cũng là những câu chuyện hạt nhài vẫn tiếp diễn ha" }
+]
